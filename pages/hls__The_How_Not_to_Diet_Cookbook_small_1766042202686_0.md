@@ -1,3 +1,4 @@
+public:: true
 file:: [The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf](../assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf)
 file-path:: ../assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf
 
