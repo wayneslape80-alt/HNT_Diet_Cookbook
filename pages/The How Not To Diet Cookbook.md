@@ -15,12 +15,9 @@ title:: The How Not To Diet Cookbook
 
 - ## How Not To Diet Cookbook (PDF)
   ![The How Not to Diet Cookbook.pdf](../assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf)
+  
+  <iframe id="pdf_window" name="pdf_window" src="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf" width="100%" height="800px"></iframe>
 
-<iframe id="pdf_window" name="pdf_window" src="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf" width="100%" height="800px"></iframe>
-- <a href="#" onclick="document.getElementById('pdf_viewer').src='https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=32'; return false;">SPRING GREENS SOUP WITH ROASTED ASPARAGUS</a> ==Less than 100 calories==
-  ((69cf1b37-2d6b-4713-bf6d-b08bc87ddc81))
-  - <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=32" target="pdf_window">SPRING GREENS SOUP WITH ROASTED ASPARAGUS</a> ==Less than 100 calories==
-  ((69cf1b37-2d6b-4713-bf6d-b08bc87ddc81))
 - <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=5" target="pdf_window">CONTENTS</a>
   hl-page:: 436
   ls-type:: annotation
@@ -30,13 +27,13 @@ title:: The How Not To Diet Cookbook
 	- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=29" target="pdf_window">SOUPS</a>
 		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=32" target="pdf_window">SPRING GREENS SOUP WITH ROASTED ASPARAGUS</a> ==Less than 100 calories==
 		  ((69cf1b37-2d6b-4713-bf6d-b08bc87ddc81))
-		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=35" target="pdf_window">CHUNKY GAZPACHO WITH CUMIN</a> ==Less than 100 calories== 
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=35" target="pdf_window">CHUNKY GAZPACHO WITH CUMIN</a> ==Less than 100 calories==
 		  ((69cf1bce-b761-443e-ac2a-1eea9db7f553))
-		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=38" target="pdf_window">ITALIAN ESCAROLE SOUP</a> 
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=38" target="pdf_window">ITALIAN ESCAROLE SOUP</a>
 		  ((69cf1bee-ed84-4083-8fba-f58c3cbbfd85))
-		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=40" target="pdf_window">RED BEAN AND BUTTERNUT CALDO VERDE</a> 
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=40" target="pdf_window">RED BEAN AND BUTTERNUT CALDO VERDE</a>
 		  ((69cf1c51-e509-4d94-a42a-7958a7a91035))
-		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=43" target="pdf_window">BORSCHT WITH CABBAGE AND DILL</a> ==Less than 100 calories== 
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=43" target="pdf_window">BORSCHT WITH CABBAGE AND DILL</a> ==Less than 100 calories==
 		  ((69cf1c78-70a6-4157-9ae0-3714b8df12fa))
 		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=46" target="pdf_window">RIBOLLITA WITH WHITE BEANS AND CAVOLO NERO</a>
 		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=49" target="pdf_window">HOT AND SOUR SOUP WITH SHIITAKES AND ASIAN GREENS</a> ==Less than 100 calories==
@@ -113,7 +110,7 @@ title:: The How Not To Diet Cookbook
 		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=143" target="pdf_window">GEMELLI WITH COURGETTE MEATBALLS AND CHIMICHURRI</a>
 		  ((69cf1fd3-b9be-4cf1-b2c6-6586a4e73ec0))
 		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=147" target="pdf_window">PASTA WITH GARLICKY WHITE BEANS AND CAVOLO NERO</a>
-		  ((69cf1fe6-1bd2-43d7-9fec-4272df736931))
+		  ((69cf1afc-9e93-4693-996d-538b5f5b243a))
 		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=150" target="pdf_window">ROOT VEGETABLE MAC ’N CHEESE</a>
 		  ((69cf1ff4-8aff-46e0-a13e-a7c239f043ed))
 		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=153" target="pdf_window">GREEN BEAN AND MUSHROOM STROGANOFF</a>
@@ -170,7 +167,7 @@ title:: The How Not To Diet Cookbook
 		  ((69cf2263-3afd-4366-953a-92072d360381))
 		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=230" target="pdf_window">AFRICAN RED BEAN AND SWEET POTATO STEW</a>
 		  ((69cf2272-3313-43f1-acbb-823eb3d94cde))
-		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=233" target="pdf_window">RED CURRY CHICKEEAS AND KABOCHA SQUASH</a>
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=233" target="pdf_window">RED CURRY CHICKPEAS AND KABOCHA SQUASH</a>
 		  ((69cf2281-64e4-4a39-90f2-40fdf22e54bf))
 		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=236" target="pdf_window">SZECHUAN TEMPEH AND BROCCOLI</a>
 		  ((69cf2293-510a-426b-9db8-0fa9df6a8618))
@@ -180,7 +177,7 @@ title:: The How Not To Diet Cookbook
 		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=242" target="pdf_window">VEGETABLE PAELLA WITH GOLDEN BARLEY</a>
 		  ((69cf22a5-9840-4544-adb2-709b2da07668))
 		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=245" target="pdf_window">GREAT GRAIN TART</a>
-		  ((69cf22b8-35_b5-42c2-8a4e-cf7ea0e95407))
+		  ((69cf22b8-35b5-42c2-8a4e-cf7ea0e95407))
 		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=249" target="pdf_window">MILLET RISOTTO WITH MUSHROOMS, WHITE BEANS AND SPINACH</a>
 		  ((69cf22c7-f306-41d5-965f-9651350dc6b2))
 		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=252" target="pdf_window">BAKED GRAIN LOAF WITH UMAMI GRAVY</a>
@@ -214,7 +211,7 @@ title:: The How Not To Diet Cookbook
 		  ((69cf23df-b724-4d2f-a616-80476dfb4bda))
 		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=295" target="pdf_window">MILLET UPMA (SAVOURY INDIAN PORRIDGE)</a>
 		  ((69cf23ed-d556-43eb-ac49-b0976c79714b))
-		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=298" target="pdf_window">CHICKPEA–CAULIFLOWER SCRAMBLE</a>
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=298" target="pdf_window">CHICKEEA–CAULIFLOWER SCRAMBLE</a>
 		  ((69cf23f9-9db2-4f79-8700-ceef8b45db01))
 		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=300" target="pdf_window">BROL BOWL WITH SAUTÉED GREENS</a>
 		  ((69cf240e-905e-4951-badd-7d01300801f4))
@@ -228,7 +225,7 @@ title:: The How Not To Diet Cookbook
 		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=310" target="pdf_window">STONE FRUIT BOWLS</a>
 		  ((69cf243e-8748-42f1-bb6f-7f17705da5e9))
 		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=312" target="pdf_window">MANGO–RASPBERRY CHIA PUDDING</a>
-		  ((69cf2452-8c3a-45d2-afbc-94c5d35f53ed))
+		  ((69cf2452-8c3a-4522-afbc-94c5d35f53ed))
 		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=314" target="pdf_window">CRUST-FREE PUMPKIN PIE</a>
 		  ((69cf2462-8c21-4609-ac94-fe5b0ad5f479))
 		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=316" target="pdf_window">BLACK FOREST CHIA PUDDING</a>
