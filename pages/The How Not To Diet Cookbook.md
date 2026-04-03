@@ -1,20 +1,20 @@
 public:: true
-cover:: ![The How Not To Diet Cookbook](../assets/how not to diet cookbook.jpg){:height 286, :width 199}
-type:: [[Book]] [[Resources]] 
-subtype:: [[Cookbook]]
-domain:: [[Food & Cooking]] [[Health & Diet]]
-author:: Michael Greger
-publisher:: Flatiron Books
-year:: 2021
-source:: Commercial publication
-diet:: [[Whole Food Plant-Based]]
-title:: The How Not To Diet Cookbook
+  cover:: ![The How Not To Diet Cookbook](../assets/how not to diet cookbook.jpg){:height 286, :width 199}
+  type:: [[Book]] [[Resources]] 
+  subtype:: [[Cookbook]]
+  domain:: [[Food & Cooking]] [[Health & Diet]]
+  author:: Michael Greger
+  publisher:: Flatiron Books
+  year:: 2021
+  source:: Commercial publication
+  diet:: [[Whole Food Plant-Based]]
+  title:: The How Not To Diet Cookbook
 
 - ## APA 7 Reference
   Greger, M. (2021). *The how not to diet cookbook: 100+ recipes for healthy, permanent weight loss*. Flatiron Books.
 - How Not To Diet Cookbook (PDF)
   ![The How Not to Diet Cookbook.pdf](../assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf)
-  <iframe src="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf" width="100%" height="800px"></iframe>
+  <iframe name="pdf_window" src="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf" width="100%" height="800px"></iframe>
 - ((6996abbc-e131-4f47-989c-9c3853f57782))
   hl-page:: 436
   ls-type:: annotation
@@ -22,233 +22,237 @@ title:: The How Not To Diet Cookbook
   hl-color:: purple
 	- ((6996ab76-af87-47ca-bafc-639ec5b5ff91))
 	- ((6996ab91-75c6-4c2d-823a-93f5c8dd874e))
-		- ((69cf17fa-200f-4b1d-9a54-e44beaa80ee8)) ==Less than 100 calories==
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a> ==Less than 100 calories==
 		  ((69cf1b37-2d6b-4713-bf6d-b08bc87ddc81))
-		- ((69cf181a-74d4-44d1-9fff-4860e10f4cb4)) ==Less than 100 calories== 
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a> ==Less than 100 calories== 
 		  ((69cf1bce-b761-443e-ac2a-1eea9db7f553))
-		- ((69cf182e-f0ea-4553-a6a2-3bddf424cb23)) 
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a> 
 		  ((69cf1bee-ed84-4083-8fba-f58c3cbbfd85))
-		- ((69cf1838-d154-4a66-a7f6-83729aeb0717)) 
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a> 
 		  ((69cf1c51-e509-4d94-a42a-7958a7a91035))
-		- ((69cf1851-33a9-4300-9cdf-5d726b2cc27c)) ==Less than 100 calories== 
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a> ==Less than 100 calories== 
 		  ((69cf1c78-70a6-4157-9ae0-3714b8df12fa))
-		- ((69cf1861-ee26-47e9-9d94-43ff13e76ab7))
-		- ((69cf186d-23b7-4bb6-82d9-6202fae38536)) ==Less than 100 calories==
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a> ==Less than 100 calories==
 		  ((69cf1cc3-f757-4d3b-afed-32ef8e013cad))
-		- ((69cf1880-7a1b-41e9-93ab-bebb6350c796))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf1ce9-3443-4edd-9ed1-5126bc1eecbe))
-		- ((69cf188e-e09b-401e-a5f6-69e8fd178d1f)) ==Less than 100 calories==
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a> ==Less than 100 calories==
 		  ((69cf1d18-d9cd-4370-81f2-fd84bd1b8754))
-		- ((69cf18a5-c3d0-472c-8e9a-86f68d065833))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf1d38-9e29-444e-9614-77d0b314f58a))
-		- ((69cf18b5-fc69-4ccf-968c-ebc2e298b2c9))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf1d50-277f-4065-8b31-ce0c15ba8029))
-		- ((69cf18c0-5808-4432-9cef-0a681bd60ae9))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf1d69-a57c-4736-849b-a16c7571a483))
-		- ((69cf18cb-eb92-4a7e-8882-d6566c719610))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf1d7a-f171-4f09-9077-db93a1be9eae))
-		- ((69cf18d5-3c25-4b96-92c1-9eaa295ff311))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf1d92-80eb-4175-8261-35d6e2c5b90a))
-		- ((69cf18df-ab1c-48ee-bb3e-616c26a7cd1a))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf1dcd-c7b7-45f0-bb63-9f2eafc2f6d8))
-		- ((69cf18ec-f44b-40c3-bcc6-5b2192aceb86))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf1de2-5280-4da1-b147-50605fede65a))
 	- ((6996abcf-4e15-40b3-a17b-11e6322f3100))
 	  collapsed:: true
-		- ((69cf1900-1182-4249-bb75-71cce98e05f1)) ==Less than 100 calories==
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a> ==Less than 100 calories==
 		  ((69cf1dfc-b01e-4112-a40e-407702179877))
-		- ((69cf191a-75ff-4b9a-8348-c7954c5a1547))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf1e0d-1191-4bba-b8e5-761acc4bc9fc))
-		- ((69cf1925-3772-4dcb-b991-32ad4f261855)) ==Less than 100 calories==
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a> ==Less than 100 calories==
 		  ((69cf1e22-76f7-43d4-8f4e-87a14dc38bd7))
-		- ((69cf193c-5ec0-4083-bf8c-7496d4e1a9dd))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf1e45-e359-4707-baf1-a1edf6874c3a))
-		- ((69cf1948-3d81-4c07-a239-b36207660790))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf1e5b-d34c-453c-88ac-1c0107f06954))
-		- ((69cf199a-85ab-4521-9be2-9ed46cbe5f9f))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf1e80-3e17-4f81-abae-040a7d0ec50b))
-		- ((69cf19a4-8bc3-47cf-926e-cb2efe5bf20b))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf1e94-31e0-42d8-8766-ee0d4b588daf))
-		- ((69cf19b2-2eb2-474c-9101-0748fc11c670))
-		- ((69cf19bf-47dd-49e6-856e-ec035ff2505a))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf1eaf-dd36-41ac-acdc-90b892bdad81))
-		- ((69cf19cd-3338-494c-a85e-b6859a55c74b))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf1ec9-2e08-4571-b4cb-1d0a7da7ef09))
-		- ((69cf19d8-8132-46a5-9cdb-9181a20d5b5d)) ==Less than 100 calories==
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a> ==Less than 100 calories==
 		  ((69cf1edb-b71d-4cd0-a934-6342c0a4eb28))
-		- ((6996ad4b-823b-45f2-984e-670b9275be8e))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf1eeb-6675-47f7-989e-e195a5ed35f8))
-		- ((69cf19fc-716c-4229-9beb-083043382c75)) ==Less than 100 Calories==
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a> ==Less than 100 Calories==
 		  ((69cf1efd-5413-4f54-883a-206f4bdd51d4))
-		- ((69cf1a19-b2df-43de-bfc2-a66c061ec5fc))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf1f0c-c582-4391-8d50-26cfe2f13f0d))
-		- ((69cf1a26-144a-4687-aea1-d49f8b0b75c6)) ==Less than 100 Calories==
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a> ==Less than 100 Calories==
 		  ((69cf1f1e-eb82-4b2c-8f84-f2189a3dd1ba))
-		- ((69cf1a38-d3bd-4a1e-8a69-76003c3305df))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf1f31-4719-48d8-a4df-52d225410f20))
-		- ((69cf1a45-795c-4acc-bd5f-0cc5db5f9e44))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf1f51-9aa7-4218-a23c-51bf069ef36e))
 	- ((6996abe9-bdc8-4f8a-96b9-7189e0a21747))
 	  collapsed:: true
-		- ((69cf1a5d-afc8-4c2b-9bca-b3d6c31f2279))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf1f63-b872-45f0-b047-9863b7e6f47f))
-		- ((69cf1a84-84cb-402b-bcf0-4ea3a7f9669f))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf1f84-bbeb-4222-8620-225ccec468c2))
-		- ((69cf1acb-782d-4ed5-b934-f77353210fdd))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf1f93-2a55-46d6-abc2-8a8a08cc8125))
-		- ((69cf1a9c-a895-4c74-80b8-06164e98b006))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf1fa5-2efe-44e8-9405-01fcb464a1c7))
-		- ((69cf1aa8-cfa8-4dcb-ad03-21baf454ead8))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf1fb4-c26f-4dc9-98e9-152a3db8ad1e))
-		- ((69cf1ade-3424-4e12-88fa-58e11cb3546b))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf1fc2-bc24-427d-aba5-48539a6a80b0))
-		- ((69cf1af0-7d95-41d7-a4d7-1fdf056c6c40))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf1fd3-b9be-4cf1-b2c6-6586a4e73ec0))
-		- ((69cf1afc-9e93-4693-996d-538b5f5b243a))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf1fe6-1bd2-43d7-9fec-4272df736931))
-		- ((69cf1b07-efc9-4546-a40f-8f0c71c79e81))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf1ff4-8aff-46e0-a13e-a7c239f043ed))
-		- ((69cf1b14-6e44-4665-863a-9016523bba57))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf2007-d282-49ae-a2f0-ec4b736e74cc))
 	- ((6996abf6-885a-4a4d-9598-4155a62ae57f))
 	  collapsed:: true
-		- ((69cf0e1e-949d-4210-8a79-f1dd068ef7b7))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf2020-9905-48a3-8e49-ecd82916f657))
-		- ((69cf0e2e-7df5-4e44-8ab5-012724f3bcb6))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf202e-bc42-47e9-9773-0d15a2bb5b1d))
-		- ((69cf0e49-1df1-4b6f-a604-5e66afadc5be))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf203e-7fee-4571-bde7-19896aaafa74))
-		- ((69cf0e56-24e9-473a-901b-2508c0ef8f2d))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf204f-8cb8-450b-a54c-1e5a3b73070f))
-		- ((69cf0e63-ad39-4021-8b78-0095d1d00e0b))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf2064-6afd-4c68-a0f8-9558daab9297))
-		- ((69cf0e79-388d-4155-9c9c-30ea1b322a23))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf2077-4de9-4132-b59e-c6df3594d35a))
-		- ((69cf0e8a-fed0-4e3d-930b-2f64b09bf8e4))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf2088-d45f-4e03-9737-669a0cb7a8dd))
-		- ((69cf0f28-f0bf-4e60-b20c-9575588fbdfe))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf2098-d68c-4f4a-a809-f14c8979ad9a))
-		- ((69cf0f3a-a07e-48cf-a840-eeda4ca9150e))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf20a8-a396-4225-b674-8180515c616a))
-		- ((69cf0f50-204d-4fc3-9cfe-89c71647cd22))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf20b7-ad6a-4218-95d3-435fcfec0ccb))
-		- ((69cf0f5c-d2ce-4e7c-9708-b11a53a05448))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf20c7-d371-43ae-b511-c4b4333f81bd))
-		- ((69cf0f69-1f29-4383-899f-b056a74477c1))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf20d7-1396-468b-b13f-64d9fa6c5e0f))
-		- ((69cf0f76-3f9a-468f-96a3-1518d8fe6024))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf2120-2801-4793-a679-ca83bcf0e4fc))
-		- ((69cf0f81-f1bb-4189-94aa-3dae7d9cfe3f))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf2130-b034-433e-99f8-5a18c2520d47))
-		- ((69cf0f8e-acb6-4c5b-9d46-9d11e8462c47))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf213f-b1b2-4c60-aac5-ef3cd0518fcc))
 	- ((6996ac0c-8b1c-4d91-a110-fabda9f518fd))
 	  collapsed:: true
-		- ((69cf0fa4-ae43-4a2d-b7ce-01c73ed93405))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf2154-0110-4482-ba54-5b3d524c4275))
-		- ((69cf0fb1-6342-436f-86e6-be0ea1f21673))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf2167-62bf-414a-a55b-65db27e6c83a))
-		- ((69cf0fbc-3458-4acb-9509-948c900d460c))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ![image.png](../assets/image_1775182369960_0.png){:height 332, :width 494}
-		- ((69cf0fc7-67f0-47e1-a424-34bb7ffb2410))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf2182-5020-467e-bf55-888fe1237e13))
-		- ((69cf10c6-da7b-447a-ad64-0da16e43526b))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf2240-8986-47fe-a06b-cfe2eeb33e16))
-		- ((69cf10db-4360-4941-b47a-2d99f00a95fb))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf2251-e11b-4ac6-b10a-5de90d166879))
-		- ((69cf10e7-2fc4-49d7-8a1c-983fa31c88a3))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf2263-3afd-4366-953a-92072d360381))
-		- ((69cf111f-3c0b-47af-ac1c-63ddbe4faab0))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf2272-3313-43f1-acbb-823eb3d94cde))
-		- ((69cf1105-a294-4780-80bf-c073f080c193))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf2281-64e4-4a39-90f2-40fdf22e54bf))
-		- ((69cf114c-a9fd-4951-8ccf-3e4c8be841a1))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf2293-510a-426b-9db8-0fa9df6a8618))
 	- ((6996ac15-6d62-456b-9efa-d1d5251aec6f))
 	  collapsed:: true
-		- ((69cf116d-22fe-4c71-8bca-f80c429a19c7))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf22a5-9840-4544-adb2-709b2da07668))
-		- ((69cf1176-4eb5-46b1-be7b-0ec452f73b08))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf22b8-35b5-42c2-8a4e-cf7ea0e95407))
-		- ((69cf1187-e2d1-4a3b-95c8-bf920563d59f))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf22c7-f306-41d5-965f-9651350dc6b2))
-		- ((69cf1193-f543-488e-97a8-65c0c7b81bc0))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf22e8-78c1-453c-86dc-514a62a3ae8e))
-		- ((69cf11a3-4c5a-458c-a153-cbb18e0593be))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf22f6-b53c-4058-82bb-4c949eff599b))
-		- ((69cf12a9-04d8-43e9-a39c-f588c79226bc))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf230c-5b48-419a-8e44-44b7b7300c11))
-		- ((69cf12b8-0dd9-41af-97e7-7c85c9bb7fed))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf231d-514a-42d3-a77a-35be161336b8))
-		- ((69cf12c3-b7be-4af4-8b78-76c53e4d1cc1))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf232d-7df8-4d87-9faa-d406de2356b6))
-		- ((69cf12d1-76f8-4806-8b6f-3b72bef68430))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf2344-2ce7-441e-8d30-3b7504e5e115))
-		- ((69cf12e1-87a9-476a-9aad-d8701e72eba5))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf2356-5b9c-4850-a186-39e298ff51fe))
-		- ((69cf12ed-13db-4446-8568-7a50e7faa3e2))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf2369-fc94-4000-b880-78463da4df11))
 	- ((6996ac22-833b-462b-a384-c5a2e2ae4c3d))
 	  collapsed:: true
-		- ((69cf1304-ce13-450f-b138-e24dac8f7f5a))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf23a4-cfff-4420-b466-1bfdd029715e))
-		- ((69cf130f-0b09-40c8-b0ec-26360c16264d))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf23b2-d2bb-4d8e-b505-cec24a3e45d7))
-		- ((69cf131b-043a-4053-88ff-f2c45d684ee1))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf23c0-a1b8-4883-850e-ff7b77578a16))
-		- ((69cf132a-49ce-4ebd-aa9c-198c961e3929))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf23ce-665a-4e7d-9a7f-2ab6d122db8e))
-		- ((69cf1338-5e7d-43d6-9650-b0e00cd3eb15))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf23df-b724-4d2f-a616-80476dfb4bda))
-		- ((69cf1344-3e49-4c45-8246-d41a883b13f7))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf23ed-d556-43eb-ac49-b0976c79714b))
-		- ((69cf1351-ec1e-41f0-83ba-673cf006c8e4))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf23f9-9db2-4f79-8700-ceef8b45db01))
-		- ((69cf135c-c873-4594-a1eb-b28f90390403))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf240e-905e-4951-badd-7d01300801f4))
-		- ((69cf1367-b2bd-46be-b309-875fdf81d8d3))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf241c-b269-4eda-bef1-bfb35ef40640))
 	- ((6996ac2e-954f-4044-9e0f-64c6edf8b1a3))
 	  collapsed:: true
-		- ((69cf1379-a191-4e16-b9c8-8d0cf482aed3))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf2431-e429-4a46-b3ca-0f1ea0080f6a))
-		- ((69cf1385-509d-4d41-b901-5cc7517ce452))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf243e-8748-42f1-bb6f-7f17705da5e9))
-		- ((69cf1391-d770-4f61-bf50-257c77e3cc41))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf2452-8c3a-45d2-afbc-94c5d35f53ed))
-		- ((69cf139a-a9af-4246-ba63-70cce0900442))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf2462-8c21-4609-ac94-fe5b0ad5f479))
-		- ((69cf13a6-f982-445a-8970-9a0b92477faa))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf2470-bdf6-4c30-a248-9a98c95d1b93))
-		- ((69cf13b1-f83b-48ba-a7b4-4eb4c1407cca))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf247c-8066-4ef9-91ec-68668db83943))
-		- ((69cf13bd-33b8-4e8c-9588-2fede0c4800f))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf2513-130e-4de3-8ea3-10b75a1d4f8b))
-		- ((69cf13c8-e353-41e7-ba91-1bb51a854b75))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 		  ((69cf2521-c4cb-4e85-95d2-e97fe542199c))
 	- ((6996ac3b-9fbc-4081-bac1-1fc26ed59c47))
 	  collapsed:: true
-		- ((69cf13df-ba63-4f81-ae4c-9dc6f36b3ab5))
-		- ((69cf13ee-535f-446b-8696-3803078a84ae))
-		- ((69cf13f8-754a-4705-9e70-63b999d6de92))
-		- ((69cf1400-9b72-461c-80e5-b4314b77161f))
-		- ((69cf140b-888e-424b-b010-fe304f124878))
-		- ((69cf1415-7b8d-459c-894d-9a4974dfd3fc))
-		- ((69cf141e-a57d-45aa-8bad-c734cd645c55))
-		- ((69cf1426-cd24-4c6f-8bce-5195f98cba2d))
-		- ((69cf1432-da9d-4ca6-b3bb-d092f391279c))
-		- ((69cf143b-eb4f-489a-b5c3-535eaaa29fe8))
-		- ((69cf1447-5481-4f88-9f4b-fd9d957fb6b9))
-		- ((69cf1450-f961-41bc-945a-02f075b45534))
-		- ((69cf1459-685c-4a35-8271-7e63a6f13f33))
-		- ((69cf1462-d35b-43b9-a419-d44686b8a6c0))
-		- ((69cf146c-c515-4988-900a-6475ae0701fd))
-		- ((69cf1477-57eb-4ef7-a0ed-a3982a7efadd))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
 	- ((6996ac48-104c-484d-a109-d5cc0926bb97))
 	  collapsed:: true
-		- ((69cf17b2-f717-4d3d-b71e-dc84af248f9b))
-		- ((69cf17be-c675-4979-9d57-69946931e7c8))
-		- ((69cf17c9-4c00-482c-9956-5e434b0fd0d1))
-		- ((69cf17d6-eb02-41cb-bda7-8f9b3122a15f))
-- ((6996ac5f-3564-4eed-b63d-cdf7f5b3e1b6))
-- ((6996acca-5d13-4a3c-9576-245cffa3b4c5))
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
+- ((6996ac48-104c-484d-a109-d5cc0926bb97))
+	  collapsed:: true
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
+		- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Recipe (Page XXX)</a>
+- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Page XXX</a>
+- <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=XXX" target="pdf_window">📖 Jump to Page XXX</a>
