@@ -14,7 +14,7 @@ title:: The How Not To Diet Cookbook
   Greger, M. (2021). *The how not to diet cookbook: 100+ recipes for healthy, permanent weight loss*. Flatiron Books.
 - How Not To Diet Cookbook (PDF)
   ![The How Not to Diet Cookbook.pdf](../assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf)
-  <iframe src="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_To_Diet_Cookbook.pdf" width="100%" height="800px"></iframe>
+  <iframe src="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf" width="100%" height="800px"></iframe>
 - ((6996abbc-e131-4f47-989c-9c3853f57782))
   hl-page:: 436
   ls-type:: annotation
