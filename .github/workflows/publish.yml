@@ -1,15 +1,24 @@
 on: [push]
+
 permissions:
   contents: write
+
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     name: Publish Logseq graph
+
     steps:
       - uses: actions/checkout@v4
+
       - uses: logseq/publish-spa@main
+
       - name: Add a nojekyll file
         run: touch $GITHUB_WORKSPACE/www/.nojekyll
+
+      - name: Copy PDF viewer into site
+        run: cp pdf-viewer.html www/pdf-viewer.html
+
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
         with:
