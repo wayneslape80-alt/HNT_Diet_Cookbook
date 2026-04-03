@@ -15,9 +15,10 @@ title:: The How Not To Diet Cookbook
 
 - ## How Not To Diet Cookbook (PDF)
   ![The How Not to Diet Cookbook.pdf](../assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf)
-  
-  <iframe id="pdf_window" name="pdf_window" src="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf" width="100%" height="800px"></iframe>
 
+  <iframe id="pdf_window" name="pdf_window" src="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf" width="100%" height="800px"></iframe>
+- <a href="#" onclick="document.getElementById('pdf_viewer').src='https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=32'; return false;">SPRING GREENS SOUP WITH ROASTED ASPARAGUS</a> ==Less than 100 calories==
+  ((69cf1b37-2d6b-4713-bf6d-b08bc87ddc81))
 - <a href="https://wayneslape80-alt.github.io/HNT_Diet_Cookbook/assets/The_How_Not_to_Diet_Cookbook_small_1766042202686_0.pdf#page=5" target="pdf_window">CONTENTS</a>
   hl-page:: 436
   ls-type:: annotation
