@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>PDF Viewer</title>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      font-family: Arial, sans-serif;
+      background: #f5f5f5;
+    }
+    .bar {
+      display: flex;
+      gap: 12px;
+      align-items: center;
+      padding: 10px 14px;
+      background: #ffffff;
+      border-bottom: 1px solid #ddd;
+      position: sticky;
+      top: 0;
+      z-index: 10;
+    }
+    .bar a, .bar button {
+      font: inherit;
+      padding: 8px 12px;
+      border: 1px solid #ccc;
+      background: #fff;
+      border-radius: 6px;
+      cursor: pointer;
+      text-decoration: none;
+      color: #222;
+    }
+    .bar button:hover, .bar a:hover {
+      background: #f0f0f0;
+    }
+    .meta {
+      color: #555;
+      font-size: 14px;
+      margin-left: auto;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      max-width: 55vw;
+    }
+    iframe {
+      width: 100%;
+      height: calc(100vh - 56px);
+      border: 0;
+      display: block;
+      background: #fff;
+    }
+  </style>
+</head>
+<body>
+  <div class="bar">
+    <a id="backLink" href="./">← Back</a>
+    <button id="prevBtn" type="button">Previous page</button>
+    <button id="nextBtn" type="button">Next page</button>
+    <div class="meta" id="meta"></div>
+  </div>
+
+  <iframe id="pdfFrame" title="PDF viewer"></iframe>
+
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    const file = params.get('file');
+    let page = parseInt(params.get('page') || '1', 10);
+    const back = params.get('back') || './';
+
+    const frame = document.getElementById('pdfFrame');
+    const meta = document.getElementById('meta');
+    const backLink = document.getElementById('backLink');
+    const prevBtn = document.getElementById('prevBtn');
+    const nextBtn = document.getElementById('nextBtn');
+
+    backLink.href = back;
+
+    function render() {
+      if (!file) {
+        meta.textContent = 'Missing ?file= parameter';
+        frame.removeAttribute('src');
+        return;
+      }
+      if (!Number.isFinite(page) || page < 1) page = 1;
+      const pdfUrl = `${file}#page=${page}`;
+      frame.src = pdfUrl;
+      meta.textContent = `Page ${page} — ${file}`;
+
+      const url = new URL(window.location.href);
+      url.searchParams.set('file', file);
+      url.searchParams.set('page', String(page));
+      if (back) url.searchParams.set('back', back);
+      history.replaceState({}, '', url);
+    }
+
+    prevBtn.addEventListener('click', () => {
+      if (page > 1) {
+        page -= 1;
+        render();
+      }
+    });
+
+    nextBtn.addEventListener('click', () => {
+      page += 1;
+      render();
+    });
+
+    render();
+  </script>
+</body>
+</html>
